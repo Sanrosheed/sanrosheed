@@ -12,6 +12,6 @@ I enjoy creating efficient digital solutions that deliver great user experiences
 - Design & Prototyping: Figma
 
 ### Get in Touch📞
-- 🌐 [Portfolio](https://san-portfolio-seven.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sanusi-rasheed01)
-- 📧 [Email](mailto:sanrosheed01@gmail.com)
+- 🌐 Portfolio:[https://san-portfolio-seven.vercel.app](https://san-portfolio-seven.vercel.app)
+- 💼 LinkedIn:[Sanusi Rasheed](https://www.linkedin.com/in/sanusi-rasheed01)
+- 📧 Email:[sanrosheed01@gmail.com](mailto:sanrosheed01@gmail.com)
